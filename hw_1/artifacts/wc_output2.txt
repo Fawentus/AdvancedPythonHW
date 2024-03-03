@@ -1,0 +1,5 @@
+(venv) dariasavina@mbp-dariasavina-OZON-FVFG7397Q05N hw_1 % python3 wc.py data/text1.txt data/text2.txt data/text3.txt > artifacts/wc_output2.txt
+      24     119     617 data/text1.txt
+      11      64     387 data/text2.txt
+      31     118     705 data/text3.txt
+      66     301    1709 total

@@ -1,0 +1,25 @@
+(venv) dariasavina@mbp-dariasavina-OZON-FVFG7397Q05N hw_1 % python3 nl.py data/text1.txt > artifacts/nl_output1.txt
+     1  Twinkle, twinkle, little star,
+     2  How I wonder what you are!
+     3  Up above the world so high,
+     4  Like a diamond in the sky.
+     5  
+     6  When the blazing sun is gone,
+     7  When he nothing shines upon,
+     8  Then you show your little light,
+     9  Twinkle, twinkle, all the night.
+    10  
+    11  Then the trav'ller in the dark,
+    12  Thanks you for your tiny spark,
+    13  He could not see which way to go,
+    14  If you did not twinkle so.
+    15  
+    16  In the dark blue sky you keep,
+    17  And often thro' my curtains peep,
+    18  For you never shut your eye,
+    19  Till the sun is in the sky.
+    20  
+    21  'Tis your bright and tiny spark,
+    22  Lights the trav'ller in the dark:
+    23  Tho' I know not what you are,
+    24  Twinkle, twinkle, little star.

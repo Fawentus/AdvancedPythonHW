@@ -1,0 +1,12 @@
+(venv) dariasavina@mbp-dariasavina-OZON-FVFG7397Q05N hw_1 % python3 nl.py < data/text2.txt > artifacts/nl_output2.txt
+     1  Sun of the sleepless! Melancholy star!
+     2  Whose tearful beam glows tremulously far,
+     3  That show’st the darkness thou canst not dispel,
+     4  How like art thou to joy remember’d well!
+     5  
+     6  So gleams the past, the light of other days,
+     7  Which shines, but warms not with its powerless rays;
+     8  A night-beam Sorrow watcheth to behold,
+     9  Distinct, but distant — clear, but oh, how cold!
+    10  
+    11  George Gordon Byron

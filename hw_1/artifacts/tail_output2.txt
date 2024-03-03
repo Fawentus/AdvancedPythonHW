@@ -1,0 +1,36 @@
+(venv) dariasavina@mbp-dariasavina-OZON-FVFG7397Q05N hw_1 % python3 tail.py data/text1.txt data/text2.txt data/text3.txt > artifacts/tail_output2.txt
+==> data/text1.txt <==
+
+In the dark blue sky you keep,
+And often thro' my curtains peep,
+For you never shut your eye,
+Till the sun is in the sky.
+
+'Tis your bright and tiny spark,
+Lights the trav'ller in the dark:
+Tho' I know not what you are,
+Twinkle, twinkle, little star.
+
+==> data/text2.txt <==
+Whose tearful beam glows tremulously far,
+That show’st the darkness thou canst not dispel,
+How like art thou to joy remember’d well!
+
+So gleams the past, the light of other days,
+Which shines, but warms not with its powerless rays;
+A night-beam Sorrow watcheth to behold,
+Distinct, but distant — clear, but oh, how cold!
+
+George Gordon Byron
+
+==> data/text3.txt <==
+Unconquered, though she fell;
+Still buoyant are her golden wings,
+Still strong to bear us well.
+
+Manfully, fearlessly,
+The day of trial bear,
+For gloriously, victoriously,
+Can courage quell despair!
+
+Charlotte Brontë

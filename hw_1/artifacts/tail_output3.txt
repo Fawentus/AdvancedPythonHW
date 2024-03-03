@@ -1,0 +1,18 @@
+(venv) dariasavina@mbp-dariasavina-OZON-FVFG7397Q05N hw_1 % python3 tail.py < data/text3.txt > artifacts/tail_output3.txt
+
+What though Death at times steps in
+And calls our best away?
+What though sorrow seems to win,
+O’er hope, a heavy sway?
+
+Yet Hope again elastic springs,
+Unconquered, though she fell;
+Still buoyant are her golden wings,
+Still strong to bear us well.
+
+Manfully, fearlessly,
+The day of trial bear,
+For gloriously, victoriously,
+Can courage quell despair!
+
+Charlotte Brontë

@@ -1,0 +1,11 @@
+(venv) dariasavina@mbp-dariasavina-OZON-FVFG7397Q05N hw_1 % python3 tail.py data/text1.txt > artifacts/tail_output1.txt
+
+In the dark blue sky you keep,
+And often thro' my curtains peep,
+For you never shut your eye,
+Till the sun is in the sky.
+
+'Tis your bright and tiny spark,
+Lights the trav'ller in the dark:
+Tho' I know not what you are,
+Twinkle, twinkle, little star.
