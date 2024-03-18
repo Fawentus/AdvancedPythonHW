@@ -1,5 +1,5 @@
 import sys
-from generate_latex import generation_table, generation_picture, generation_document
+from generate_latex.generate_latex import generation_table, generation_picture, generation_document
 
 
 def main():

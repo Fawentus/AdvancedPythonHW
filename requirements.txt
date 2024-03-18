@@ -1,1 +1,3 @@
 click~=8.1.7
+fawentus-generate-latex==0.0
+
